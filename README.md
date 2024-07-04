@@ -3,7 +3,6 @@
     <p>
         The ToDo App is a web application designed to help users manage their daily tasks efficiently. The application is built using HTML, CSS, and JavaScript, providing a simple and interactive user interface. The goal of this project is to offer users an easy way to add, view, and manage their tasks.
     </p>
-    <a href="">Live link</a>
     <h2 id="technologies-used">Technologies Used</h2>
     <ul>
         <li><strong>HTML</strong>: For structuring the content.</li>
