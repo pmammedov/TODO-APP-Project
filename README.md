@@ -8,6 +8,7 @@
         <li><strong>HTML</strong>: For structuring the content.</li>
         <li><strong>CSS</strong>: For styling the content.</li>
         <li><strong>JavaScript</strong>: For adding interactivity and managing tasks.</li>
+        <li><strong>Local Storage</strong>: Even refreshing the page user will not loose any todo=.</li>
     </ul>
     <h2 id="features">Features</h2>
     <ul>
